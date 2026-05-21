@@ -9895,7 +9895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0164ddcd-36f8-4137-81f0-70721123ff0b")
-		(property "Reference" "D322"
+		(property "Reference" "D240"
 			(at 414.02 186.69 0)
 			(effects
 				(font
@@ -9953,7 +9953,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D322")
+					(reference "D240")
 					(unit 1)
 				)
 			)
@@ -9969,7 +9969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01b7a8e3-1ed1-429b-9e3d-c8734b81d59b")
-		(property "Reference" "D352"
+		(property "Reference" "D242"
 			(at 414.02 274.32 0)
 			(effects
 				(font
@@ -10027,7 +10027,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D352")
+					(reference "D242")
 					(unit 1)
 				)
 			)
@@ -10043,7 +10043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "099869e7-bf1d-4490-89ea-6d5345db86a9")
-		(property "Reference" "D334"
+		(property "Reference" "D223"
 			(at 334.01 231.14 0)
 			(effects
 				(font
@@ -10101,7 +10101,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D334")
+					(reference "D223")
 					(unit 1)
 				)
 			)
@@ -10117,7 +10117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b88f633-e8dd-410e-8095-c41ae9caa2fa")
-		(property "Reference" "D344"
+		(property "Reference" "D194"
 			(at 190.5 274.32 0)
 			(effects
 				(font
@@ -10175,7 +10175,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D344")
+					(reference "D194")
 					(unit 1)
 				)
 			)
@@ -10191,7 +10191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0efc88e9-7ff3-4601-ac95-e2c498542652")
-		(property "Reference" "D180"
+		(property "Reference" "D195"
 			(at 220.98 54.61 0)
 			(effects
 				(font
@@ -10249,7 +10249,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D180")
+					(reference "D195")
 					(unit 1)
 				)
 			)
@@ -10265,7 +10265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10cfe5e1-6732-466c-8d1b-51920d4549b6")
-		(property "Reference" "D289"
+		(property "Reference" "D220"
 			(at 334.01 101.6 0)
 			(effects
 				(font
@@ -10323,7 +10323,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D289")
+					(reference "D220")
 					(unit 1)
 				)
 			)
@@ -10339,7 +10339,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13c1338b-902d-4aa5-8474-946d2cff16df")
-		(property "Reference" "D276"
+		(property "Reference" "D231"
 			(at 387.35 54.61 0)
 			(effects
 				(font
@@ -10397,7 +10397,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D276")
+					(reference "D231")
 					(unit 1)
 				)
 			)
@@ -10413,7 +10413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "141510fd-f487-437c-9d6c-aef8b3256110")
-		(property "Reference" "D345"
+		(property "Reference" "D200"
 			(at 220.98 274.32 0)
 			(effects
 				(font
@@ -10471,7 +10471,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D345")
+					(reference "D200")
 					(unit 1)
 				)
 			)
@@ -10487,7 +10487,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17c0f664-10ce-4c20-8e58-49f64594eff4")
-		(property "Reference" "D181"
+		(property "Reference" "D201"
 			(at 247.65 54.61 0)
 			(effects
 				(font
@@ -10545,7 +10545,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D181")
+					(reference "D201")
 					(unit 1)
 				)
 			)
@@ -10561,7 +10561,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1980784d-df96-4746-bdd7-610649608cc8")
-		(property "Reference" "D283"
+		(property "Reference" "D185"
 			(at 163.83 101.6 0)
 			(effects
 				(font
@@ -10619,7 +10619,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D283")
+					(reference "D185")
 					(unit 1)
 				)
 			)
@@ -10635,7 +10635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b35616d-ae10-4b12-99f6-710dacd8e130")
-		(property "Reference" "D321"
+		(property "Reference" "D234"
 			(at 387.35 186.69 0)
 			(effects
 				(font
@@ -10693,7 +10693,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D321")
+					(reference "D234")
 					(unit 1)
 				)
 			)
@@ -10709,7 +10709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e1d596c-4368-4808-a9d8-31a97a869d9a")
-		(property "Reference" "D330"
+		(property "Reference" "D199"
 			(at 220.98 231.14 0)
 			(effects
 				(font
@@ -10767,7 +10767,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D330")
+					(reference "D199")
 					(unit 1)
 				)
 			)
@@ -10783,7 +10783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e597989-8fad-4ca7-a719-6be22c1ab809")
-		(property "Reference" "D272"
+		(property "Reference" "D207"
 			(at 276.86 54.61 0)
 			(effects
 				(font
@@ -10841,7 +10841,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D272")
+					(reference "D207")
 					(unit 1)
 				)
 			)
@@ -10857,7 +10857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ee993d4-4009-4e93-9471-164cf77447c8")
-		(property "Reference" "D331"
+		(property "Reference" "D205"
 			(at 247.65 231.14 0)
 			(effects
 				(font
@@ -10915,7 +10915,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D331")
+					(reference "D205")
 					(unit 1)
 				)
 			)
@@ -10931,7 +10931,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ee9b67c-81ee-47f9-ab31-f764e84ee237")
-		(property "Reference" "D303"
+		(property "Reference" "D215"
 			(at 303.53 143.51 0)
 			(effects
 				(font
@@ -10989,7 +10989,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D303")
+					(reference "D215")
 					(unit 1)
 				)
 			)
@@ -11005,7 +11005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2576e5a3-5063-44b0-b45b-48d096a8de2c")
-		(property "Reference" "D336"
+		(property "Reference" "D235"
 			(at 387.35 231.14 0)
 			(effects
 				(font
@@ -11063,7 +11063,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D336")
+					(reference "D235")
 					(unit 1)
 				)
 			)
@@ -11079,7 +11079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cda6367-8e02-474f-aab6-5c496b8e6ffd")
-		(property "Reference" "D294"
+		(property "Reference" "D168"
 			(at 54.61 143.51 0)
 			(effects
 				(font
@@ -11137,7 +11137,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D294")
+					(reference "D168")
 					(unit 1)
 				)
 			)
@@ -11153,7 +11153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d1928df-86ea-4963-8c00-7693d81dff2d")
-		(property "Reference" "D311"
+		(property "Reference" "D177"
 			(at 111.76 186.69 0)
 			(effects
 				(font
@@ -11211,7 +11211,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D311")
+					(reference "D177")
 					(unit 1)
 				)
 			)
@@ -11227,7 +11227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d507b76-4216-4ea7-93b3-96fce07ec144")
-		(property "Reference" "D288"
+		(property "Reference" "D214"
 			(at 303.53 101.6 0)
 			(effects
 				(font
@@ -11285,7 +11285,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D288")
+					(reference "D214")
 					(unit 1)
 				)
 			)
@@ -11301,7 +11301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e701e9d-8ab9-4f76-99b3-b276d6a9e409")
-		(property "Reference" "D275"
+		(property "Reference" "D225"
 			(at 360.68 54.61 0)
 			(effects
 				(font
@@ -11359,7 +11359,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D275")
+					(reference "D225")
 					(unit 1)
 				)
 			)
@@ -11375,7 +11375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e9b6676-97ec-4e86-8b14-083ae180c61a")
-		(property "Reference" "D300"
+		(property "Reference" "D197"
 			(at 220.98 143.51 0)
 			(effects
 				(font
@@ -11433,7 +11433,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D300")
+					(reference "D197")
 					(unit 1)
 				)
 			)
@@ -11449,7 +11449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f54ed72-2582-41d2-8b23-7aff471436ae")
-		(property "Reference" "D176"
+		(property "Reference" "D174"
 			(at 111.76 54.61 0)
 			(effects
 				(font
@@ -11507,7 +11507,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D176")
+					(reference "D174")
 					(unit 1)
 				)
 			)
@@ -11523,7 +11523,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "369e470d-caa1-48b6-b9a7-cfd8b19be772")
-		(property "Reference" "D281"
+		(property "Reference" "D175"
 			(at 111.76 101.6 0)
 			(effects
 				(font
@@ -11581,7 +11581,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D281")
+					(reference "D175")
 					(unit 1)
 				)
 			)
@@ -11597,7 +11597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36a8ba16-f48c-476f-bf00-65cb68bd1de1")
-		(property "Reference" "D178"
+		(property "Reference" "D184"
 			(at 163.83 54.61 0)
 			(effects
 				(font
@@ -11655,7 +11655,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D178")
+					(reference "D184")
 					(unit 1)
 				)
 			)
@@ -11671,7 +11671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e5c4336-039f-4d99-98cb-33a47b654430")
-		(property "Reference" "D319"
+		(property "Reference" "D222"
 			(at 334.01 186.69 0)
 			(effects
 				(font
@@ -11729,7 +11729,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D319")
+					(reference "D222")
 					(unit 1)
 				)
 			)
@@ -11745,7 +11745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "422c9d16-386f-4f52-9184-ab65ab6c0acf")
-		(property "Reference" "D315"
+		(property "Reference" "D198"
 			(at 220.98 186.69 0)
 			(effects
 				(font
@@ -11803,7 +11803,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D315")
+					(reference "D198")
 					(unit 1)
 				)
 			)
@@ -11819,7 +11819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "491562a2-e295-49d4-b74e-eb573b14ce3e")
-		(property "Reference" "D282"
+		(property "Reference" "D180"
 			(at 138.43 101.6 0)
 			(effects
 				(font
@@ -11877,7 +11877,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D282")
+					(reference "D180")
 					(unit 1)
 				)
 			)
@@ -11893,7 +11893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d775e19-a50b-426f-9c44-3aa82051e1bc")
-		(property "Reference" "D286"
+		(property "Reference" "D202"
 			(at 247.65 101.6 0)
 			(effects
 				(font
@@ -11951,7 +11951,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D286")
+					(reference "D202")
 					(unit 1)
 				)
 			)
@@ -11967,7 +11967,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ef000ed-be79-452f-b560-0bff2aa41938")
-		(property "Reference" "D297"
+		(property "Reference" "D181"
 			(at 138.43 143.51 0)
 			(effects
 				(font
@@ -12025,7 +12025,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D297")
+					(reference "D181")
 					(unit 1)
 				)
 			)
@@ -12041,7 +12041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "539bee91-1596-41bd-91d2-77af75a9e54c")
-		(property "Reference" "D327"
+		(property "Reference" "D183"
 			(at 138.43 231.14 0)
 			(effects
 				(font
@@ -12099,7 +12099,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D327")
+					(reference "D183")
 					(unit 1)
 				)
 			)
@@ -12115,7 +12115,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5482fb59-fe08-4db5-a7f3-c0249a3c3779")
-		(property "Reference" "D273"
+		(property "Reference" "D213"
 			(at 303.53 54.61 0)
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D273")
+					(reference "D213")
 					(unit 1)
 				)
 			)
@@ -12189,7 +12189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "591bc98e-84f1-4bcf-a5d9-966ba12ff668")
-		(property "Reference" "D305"
+		(property "Reference" "D227"
 			(at 360.68 143.51 0)
 			(effects
 				(font
@@ -12247,7 +12247,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D305")
+					(reference "D227")
 					(unit 1)
 				)
 			)
@@ -12263,7 +12263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bb7150c-e032-47b2-9874-493dfc895024")
-		(property "Reference" "D347"
+		(property "Reference" "D212"
 			(at 276.86 274.32 0)
 			(effects
 				(font
@@ -12321,7 +12321,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D347")
+					(reference "D212")
 					(unit 1)
 				)
 			)
@@ -12337,7 +12337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5be5af52-41e1-4919-b37d-58421b19d8ff")
-		(property "Reference" "D318"
+		(property "Reference" "D216"
 			(at 303.53 186.69 0)
 			(effects
 				(font
@@ -12395,7 +12395,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D318")
+					(reference "D216")
 					(unit 1)
 				)
 			)
@@ -12411,7 +12411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dcf872e-3911-4948-a59c-31a63046fffa")
-		(property "Reference" "D326"
+		(property "Reference" "D178"
 			(at 111.76 231.14 0)
 			(effects
 				(font
@@ -12469,7 +12469,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D326")
+					(reference "D178")
 					(unit 1)
 				)
 			)
@@ -12485,7 +12485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f1f604b-4468-4269-bff0-be4e2a986c0d")
-		(property "Reference" "D338"
+		(property "Reference" "D247"
 			(at 444.5 231.14 0)
 			(effects
 				(font
@@ -12543,7 +12543,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D338")
+					(reference "D247")
 					(unit 1)
 				)
 			)
@@ -12559,7 +12559,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6301c8d7-d847-4e5a-9d06-77b076a46a1e")
-		(property "Reference" "D316"
+		(property "Reference" "D204"
 			(at 247.65 186.69 0)
 			(effects
 				(font
@@ -12617,7 +12617,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D316")
+					(reference "D204")
 					(unit 1)
 				)
 			)
@@ -12633,7 +12633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "634284de-4707-475e-9427-f0dced78fc96")
-		(property "Reference" "D277"
+		(property "Reference" "D237"
 			(at 414.02 54.61 0)
 			(effects
 				(font
@@ -12691,7 +12691,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D277")
+					(reference "D237")
 					(unit 1)
 				)
 			)
@@ -12707,7 +12707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e2d107b-4c69-413d-8510-08bac3365594")
-		(property "Reference" "D348"
+		(property "Reference" "D218"
 			(at 303.53 274.32 0)
 			(effects
 				(font
@@ -12765,7 +12765,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D348")
+					(reference "D218")
 					(unit 1)
 				)
 			)
@@ -12781,7 +12781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ed9c4e8-aaf0-4198-b8fd-1d1eb77068e3")
-		(property "Reference" "D323"
+		(property "Reference" "D246"
 			(at 444.5 186.69 0)
 			(effects
 				(font
@@ -12839,7 +12839,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D323")
+					(reference "D246")
 					(unit 1)
 				)
 			)
@@ -12855,7 +12855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fc61edf-8f77-424f-bcbd-6470e5419bf1")
-		(property "Reference" "D296"
+		(property "Reference" "D176"
 			(at 111.76 143.51 0)
 			(effects
 				(font
@@ -12913,7 +12913,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D296")
+					(reference "D176")
 					(unit 1)
 				)
 			)
@@ -12929,7 +12929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "721843c1-a3bc-4b00-9d77-d65288e97a81")
-		(property "Reference" "D314"
+		(property "Reference" "D192"
 			(at 190.5 186.69 0)
 			(effects
 				(font
@@ -12987,7 +12987,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D314")
+					(reference "D192")
 					(unit 1)
 				)
 			)
@@ -13003,7 +13003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72c78d63-3fff-4b45-89c8-70b5c760678d")
-		(property "Reference" "D290"
+		(property "Reference" "D226"
 			(at 360.68 101.6 0)
 			(effects
 				(font
@@ -13061,7 +13061,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D290")
+					(reference "D226")
 					(unit 1)
 				)
 			)
@@ -13077,7 +13077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82ad39f1-3767-43d9-a98a-d509b90a7fc5")
-		(property "Reference" "D349"
+		(property "Reference" "D224"
 			(at 334.01 274.32 0)
 			(effects
 				(font
@@ -13135,7 +13135,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D349")
+					(reference "D224")
 					(unit 1)
 				)
 			)
@@ -13151,7 +13151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85a148a0-0d3c-4ceb-b790-ece4d7dedf53")
-		(property "Reference" "D299"
+		(property "Reference" "D191"
 			(at 190.5 143.51 0)
 			(effects
 				(font
@@ -13209,7 +13209,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D299")
+					(reference "D191")
 					(unit 1)
 				)
 			)
@@ -13225,7 +13225,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a16703a-cf47-47e0-91e0-f354b7d0acb6")
-		(property "Reference" "D317"
+		(property "Reference" "D210"
 			(at 276.86 186.69 0)
 			(effects
 				(font
@@ -13283,7 +13283,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D317")
+					(reference "D210")
 					(unit 1)
 				)
 			)
@@ -13299,7 +13299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e2ac120-4544-4b7c-ae00-26dcc9611457")
-		(property "Reference" "D292"
+		(property "Reference" "D238"
 			(at 414.02 101.6 0)
 			(effects
 				(font
@@ -13357,7 +13357,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D292")
+					(reference "D238")
 					(unit 1)
 				)
 			)
@@ -13373,7 +13373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9029ff41-706e-4e21-b46c-a36f442867bd")
-		(property "Reference" "D278"
+		(property "Reference" "D243"
 			(at 444.5 54.61 0)
 			(effects
 				(font
@@ -13431,7 +13431,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D278")
+					(reference "D243")
 					(unit 1)
 				)
 			)
@@ -13447,7 +13447,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9068eed0-8482-4031-91a2-a569e267b447")
-		(property "Reference" "D308"
+		(property "Reference" "D245"
 			(at 444.5 143.51 0)
 			(effects
 				(font
@@ -13505,7 +13505,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D308")
+					(reference "D245")
 					(unit 1)
 				)
 			)
@@ -13521,7 +13521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93a1bdad-86f7-4d07-9c07-9ba0f6817a16")
-		(property "Reference" "D325"
+		(property "Reference" "D173"
 			(at 81.28 231.14 0)
 			(effects
 				(font
@@ -13579,7 +13579,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D325")
+					(reference "D173")
 					(unit 1)
 				)
 			)
@@ -13595,7 +13595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95ab6c8b-3f8a-4753-9112-65cc1d34ecf4")
-		(property "Reference" "D284"
+		(property "Reference" "D190"
 			(at 190.5 101.6 0)
 			(effects
 				(font
@@ -13653,7 +13653,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D284")
+					(reference "D190")
 					(unit 1)
 				)
 			)
@@ -13669,7 +13669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95e86072-6452-4a71-9ec5-4e92934e38b9")
-		(property "Reference" "D279"
+		(property "Reference" "D167"
 			(at 54.61 101.6 0)
 			(effects
 				(font
@@ -13727,7 +13727,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D279")
+					(reference "D167")
 					(unit 1)
 				)
 			)
@@ -13743,7 +13743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96484f8e-0b46-43a8-be63-3b21ad90d28c")
-		(property "Reference" "D295"
+		(property "Reference" "D171"
 			(at 81.28 143.51 0)
 			(effects
 				(font
@@ -13801,7 +13801,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D295")
+					(reference "D171")
 					(unit 1)
 				)
 			)
@@ -13817,7 +13817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97485264-e903-4143-8c90-c553002a79ba")
-		(property "Reference" "D320"
+		(property "Reference" "D228"
 			(at 360.68 186.69 0)
 			(effects
 				(font
@@ -13875,7 +13875,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D320")
+					(reference "D228")
 					(unit 1)
 				)
 			)
@@ -13891,7 +13891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97b2b35b-e300-44b9-9211-7736e2138eb8")
-		(property "Reference" "D350"
+		(property "Reference" "D230"
 			(at 360.68 274.32 0)
 			(effects
 				(font
@@ -13949,7 +13949,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D350")
+					(reference "D230")
 					(unit 1)
 				)
 			)
@@ -13965,7 +13965,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a404fd3-2ddb-4887-9e75-e6a5fe1c065b")
-		(property "Reference" "D274"
+		(property "Reference" "D219"
 			(at 334.01 54.61 0)
 			(effects
 				(font
@@ -14023,7 +14023,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D274")
+					(reference "D219")
 					(unit 1)
 				)
 			)
@@ -14039,7 +14039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e1533c3-1f8d-436f-a555-b02d05c4e20c")
-		(property "Reference" "D310"
+		(property "Reference" "D172"
 			(at 81.28 186.69 0)
 			(effects
 				(font
@@ -14097,7 +14097,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D310")
+					(reference "D172")
 					(unit 1)
 				)
 			)
@@ -14113,7 +14113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f3638f0-b440-4274-817e-450a4664836a")
-		(property "Reference" "D328"
+		(property "Reference" "D188"
 			(at 163.83 231.14 0)
 			(effects
 				(font
@@ -14171,7 +14171,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D328")
+					(reference "D188")
 					(unit 1)
 				)
 			)
@@ -14187,7 +14187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9a6514c-a682-49f5-ad66-f08d576e627d")
-		(property "Reference" "D332"
+		(property "Reference" "D211"
 			(at 276.86 231.14 0)
 			(effects
 				(font
@@ -14245,7 +14245,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D332")
+					(reference "D211")
 					(unit 1)
 				)
 			)
@@ -14261,7 +14261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b17a203e-c862-4bb9-b247-f62eb8b5f853")
-		(property "Reference" "D175"
+		(property "Reference" "D169"
 			(at 81.28 54.61 0)
 			(effects
 				(font
@@ -14319,7 +14319,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D175")
+					(reference "D169")
 					(unit 1)
 				)
 			)
@@ -14335,7 +14335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5a7da4f-2d77-4e34-b357-811f3a747936")
-		(property "Reference" "D298"
+		(property "Reference" "D186"
 			(at 163.83 143.51 0)
 			(effects
 				(font
@@ -14393,7 +14393,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D298")
+					(reference "D186")
 					(unit 1)
 				)
 			)
@@ -14409,7 +14409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba8a0da7-4422-417f-a8f7-eb870c54a1cb")
-		(property "Reference" "D177"
+		(property "Reference" "D179"
 			(at 138.43 54.61 0)
 			(effects
 				(font
@@ -14467,7 +14467,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D177")
+					(reference "D179")
 					(unit 1)
 				)
 			)
@@ -14483,7 +14483,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfc3a8dd-aefb-47f9-b867-217b84a28cd0")
-		(property "Reference" "D293"
+		(property "Reference" "D244"
 			(at 444.5 101.6 0)
 			(effects
 				(font
@@ -14541,7 +14541,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D293")
+					(reference "D244")
 					(unit 1)
 				)
 			)
@@ -14557,7 +14557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0fa5a79-c1a2-42de-8c84-04125049a9d2")
-		(property "Reference" "D301"
+		(property "Reference" "D203"
 			(at 247.65 143.51 0)
 			(effects
 				(font
@@ -14615,7 +14615,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D301")
+					(reference "D203")
 					(unit 1)
 				)
 			)
@@ -14631,7 +14631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3465d0c-7a11-43dd-8233-e7c278053534")
-		(property "Reference" "D287"
+		(property "Reference" "D208"
 			(at 276.86 101.6 0)
 			(effects
 				(font
@@ -14689,7 +14689,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D287")
+					(reference "D208")
 					(unit 1)
 				)
 			)
@@ -14705,7 +14705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c445ff27-9051-428e-93d6-2641f36da784")
-		(property "Reference" "D304"
+		(property "Reference" "D221"
 			(at 334.01 143.51 0)
 			(effects
 				(font
@@ -14763,7 +14763,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D304")
+					(reference "D221")
 					(unit 1)
 				)
 			)
@@ -14779,7 +14779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c482977e-c9d5-4888-a051-37f211f1df3e")
-		(property "Reference" "D353"
+		(property "Reference" "D248"
 			(at 444.5 274.32 0)
 			(effects
 				(font
@@ -14837,7 +14837,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D353")
+					(reference "D248")
 					(unit 1)
 				)
 			)
@@ -14853,7 +14853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca5ed5cd-03c3-4911-92fe-825efea617e6")
-		(property "Reference" "D346"
+		(property "Reference" "D206"
 			(at 247.65 274.32 0)
 			(effects
 				(font
@@ -14911,7 +14911,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D346")
+					(reference "D206")
 					(unit 1)
 				)
 			)
@@ -14927,7 +14927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cffd7845-f501-4c4b-ba29-cd3d34cd12d0")
-		(property "Reference" "D351"
+		(property "Reference" "D236"
 			(at 387.35 274.32 0)
 			(effects
 				(font
@@ -14985,7 +14985,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D351")
+					(reference "D236")
 					(unit 1)
 				)
 			)
@@ -15001,7 +15001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d28a51e9-4367-40fa-b290-cdd90b65d3af")
-		(property "Reference" "D179"
+		(property "Reference" "D189"
 			(at 190.5 54.61 0)
 			(effects
 				(font
@@ -15059,7 +15059,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D179")
+					(reference "D189")
 					(unit 1)
 				)
 			)
@@ -15075,7 +15075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8bdfe3e-d5c1-4cb2-a54d-2f6b2251fc76")
-		(property "Reference" "D306"
+		(property "Reference" "D233"
 			(at 387.35 143.51 0)
 			(effects
 				(font
@@ -15133,7 +15133,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D306")
+					(reference "D233")
 					(unit 1)
 				)
 			)
@@ -15149,7 +15149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "daf6e935-1ea2-4881-bc0e-84fc60bc1afe")
-		(property "Reference" "D312"
+		(property "Reference" "D182"
 			(at 138.43 186.69 0)
 			(effects
 				(font
@@ -15207,7 +15207,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D312")
+					(reference "D182")
 					(unit 1)
 				)
 			)
@@ -15223,7 +15223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd5c7063-5cc4-4fba-81bb-45a6bf49bdb3")
-		(property "Reference" "D313"
+		(property "Reference" "D187"
 			(at 163.83 186.69 0)
 			(effects
 				(font
@@ -15281,7 +15281,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D313")
+					(reference "D187")
 					(unit 1)
 				)
 			)
@@ -15297,7 +15297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "deb9b7bb-65b2-42dd-836c-4b6f79f680a7")
-		(property "Reference" "D291"
+		(property "Reference" "D232"
 			(at 387.35 101.6 0)
 			(effects
 				(font
@@ -15355,7 +15355,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D291")
+					(reference "D232")
 					(unit 1)
 				)
 			)
@@ -15371,7 +15371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df8f0aff-436f-46df-af3d-c7f5e7220ba1")
-		(property "Reference" "D280"
+		(property "Reference" "D170"
 			(at 81.28 101.6 0)
 			(effects
 				(font
@@ -15429,7 +15429,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D280")
+					(reference "D170")
 					(unit 1)
 				)
 			)
@@ -15445,7 +15445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5828d8f-eb29-498d-93b5-92119d050d89")
-		(property "Reference" "D335"
+		(property "Reference" "D229"
 			(at 360.68 231.14 0)
 			(effects
 				(font
@@ -15503,7 +15503,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D335")
+					(reference "D229")
 					(unit 1)
 				)
 			)
@@ -15519,7 +15519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb8f7671-31f4-4447-92fe-0750a20b40f1")
-		(property "Reference" "D329"
+		(property "Reference" "D193"
 			(at 190.5 231.14 0)
 			(effects
 				(font
@@ -15577,7 +15577,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D329")
+					(reference "D193")
 					(unit 1)
 				)
 			)
@@ -15593,7 +15593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2bca1a4-4990-4059-bf4b-45909b8d7534")
-		(property "Reference" "D337"
+		(property "Reference" "D241"
 			(at 414.02 231.14 0)
 			(effects
 				(font
@@ -15651,7 +15651,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D337")
+					(reference "D241")
 					(unit 1)
 				)
 			)
@@ -15667,7 +15667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f62c55d7-2b9e-440a-bc6a-3bc43cccd788")
-		(property "Reference" "D333"
+		(property "Reference" "D217"
 			(at 303.53 231.14 0)
 			(effects
 				(font
@@ -15725,7 +15725,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D333")
+					(reference "D217")
 					(unit 1)
 				)
 			)
@@ -15741,7 +15741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe693db8-b291-4984-b404-1ace3231baa8")
-		(property "Reference" "D285"
+		(property "Reference" "D196"
 			(at 220.98 101.6 0)
 			(effects
 				(font
@@ -15799,7 +15799,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D285")
+					(reference "D196")
 					(unit 1)
 				)
 			)
@@ -15815,7 +15815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fecc745d-d6ec-4330-9af2-3deae784c500")
-		(property "Reference" "D307"
+		(property "Reference" "D239"
 			(at 414.02 143.51 0)
 			(effects
 				(font
@@ -15873,7 +15873,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D307")
+					(reference "D239")
 					(unit 1)
 				)
 			)
@@ -15889,7 +15889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff757983-b7ee-424d-8766-678dd87af726")
-		(property "Reference" "D302"
+		(property "Reference" "D209"
 			(at 276.86 143.51 0)
 			(effects
 				(font
@@ -15947,7 +15947,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0/a7443002-8e7c-43c5-b279-7df76a007329"
-					(reference "D302")
+					(reference "D209")
 					(unit 1)
 				)
 			)

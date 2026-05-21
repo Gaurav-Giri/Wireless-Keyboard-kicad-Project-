@@ -5600,6 +5600,12 @@
 		(uuid "29eed245-0ba3-4bd1-b787-13e5d849bbb7")
 	)
 	(junction
+		(at 114.3 454.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29fdb759-1770-41f8-8d72-31be879d72d8")
+	)
+	(junction
 		(at 185.42 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5640,6 +5646,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "324368dc-75ec-42f1-817f-b8097a81c05d")
+	)
+	(junction
+		(at 114.3 452.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3411b4a1-c9aa-4942-a694-5b06fb083bb6")
 	)
 	(junction
 		(at 48.26 124.46)
@@ -5918,6 +5930,12 @@
 		(uuid "6c6fd15b-34ff-4e3d-aa44-4eb55a952339")
 	)
 	(junction
+		(at 93.98 505.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e0c4b46-dcef-4a3d-9bfb-5148394231d9")
+	)
+	(junction
 		(at 151.13 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5964,6 +5982,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f9fd3b4-909b-4404-b5cb-6b5aa0a783c0")
+	)
+	(junction
+		(at 96.52 447.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85288fab-5c30-45b2-9ad8-9630284f75bb")
 	)
 	(junction
 		(at 314.96 194.31)
@@ -6404,6 +6428,12 @@
 		(uuid "ec907500-bb99-45a4-afce-dd8a0f37f28b")
 	)
 	(junction
+		(at 49.53 482.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f061f8fb-1fb9-4584-b642-8b816d5f3201")
+	)
+	(junction
 		(at 207.01 337.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6609,6 +6639,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 455.93) (xy 118.11 455.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "088b6afc-2e66-473e-a237-cfe4386ef18c")
+	)
+	(wire
+		(pts
 			(xy 114.3 490.22) (xy 119.38 490.22)
 		)
 		(stroke
@@ -6789,6 +6829,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 458.47) (xy 119.38 458.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a420511-1e78-4a58-8103-234b26538d58")
+	)
+	(wire
+		(pts
 			(xy 119.38 171.45) (xy 119.38 194.31)
 		)
 		(stroke
@@ -6796,6 +6846,16 @@
 			(type default)
 		)
 		(uuid "1b07cf50-d882-4376-ba07-cb1ff6f8cf13")
+	)
+	(wire
+		(pts
+			(xy 96.52 430.53) (xy 96.52 447.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c457ea0-48b2-4193-a229-8f4020ae494b")
 	)
 	(wire
 		(pts
@@ -7006,6 +7066,16 @@
 			(type default)
 		)
 		(uuid "35e250de-3b7e-4c94-9fcf-5536f7599941")
+	)
+	(wire
+		(pts
+			(xy 118.11 458.47) (xy 118.11 455.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3676ef0c-3947-4fc9-9abd-7eb6c7d4e633")
 	)
 	(wire
 		(pts
@@ -7306,16 +7376,6 @@
 			(type default)
 		)
 		(uuid "4b2f7243-1c39-4595-8ad5-76455cab5e95")
-	)
-	(wire
-		(pts
-			(xy 93.98 447.04) (xy 114.3 447.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b3e6d12-8cc9-46ab-9e73-1623ffdde768")
 	)
 	(wire
 		(pts
@@ -7739,6 +7799,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 485.14) (xy 99.06 485.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b07dc41-0cb5-43b4-8488-0ff9d24a9fb9")
+	)
+	(wire
+		(pts
 			(xy 119.38 101.6) (xy 119.38 124.46)
 		)
 		(stroke
@@ -8109,6 +8179,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 455.93) (xy 114.3 454.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8acbe709-b1ba-4727-afe8-e7cc375de9f8")
+	)
+	(wire
+		(pts
 			(xy 106.68 179.07) (xy 129.54 179.07)
 		)
 		(stroke
@@ -8116,6 +8196,16 @@
 			(type default)
 		)
 		(uuid "8c43e444-0c24-40df-a79d-ef6934a2c0f6")
+	)
+	(wire
+		(pts
+			(xy 99.06 485.14) (xy 99.06 452.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c6eee02-2b60-441d-95cc-d597656500f1")
 	)
 	(wire
 		(pts
@@ -8316,6 +8406,16 @@
 			(type default)
 		)
 		(uuid "a2158fd7-1afb-42ef-9bc1-259eeec880b3")
+	)
+	(wire
+		(pts
+			(xy 93.98 505.46) (xy 93.98 515.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a21a8f74-5b7a-4cbd-8a44-4975244b1af7")
 	)
 	(wire
 		(pts
@@ -8729,6 +8829,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 447.04) (xy 114.3 447.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c86a67e6-45f6-4362-9c2a-d4cd7ef36252")
+	)
+	(wire
+		(pts
 			(xy 358.14 81.28) (xy 358.14 101.6)
 		)
 		(stroke
@@ -8986,6 +9096,16 @@
 			(type default)
 		)
 		(uuid "df12bc13-fb0f-4030-a1aa-76fd16a4a413")
+	)
+	(wire
+		(pts
+			(xy 93.98 447.04) (xy 96.52 447.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1513c4d-7d99-41d4-950a-e5f648aac785")
 	)
 	(wire
 		(pts
@@ -9316,6 +9436,16 @@
 			(type default)
 		)
 		(uuid "f900c730-0ca3-4a37-bfde-fce03bb6dab7")
+	)
+	(wire
+		(pts
+			(xy 99.06 452.12) (xy 114.3 452.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f91fb90c-9128-4051-9444-38cc7b5f165c")
 	)
 	(wire
 		(pts
@@ -10222,7 +10352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0000a5bb-b08f-4aa7-adf0-88039db41281")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 62.738 484.378 90)
 			(effects
 				(font
@@ -10238,7 +10368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 68.58 484.1748 0)
 			(effects
 				(font
@@ -10274,7 +10404,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -10290,7 +10420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "014b763b-3eef-4b70-b0c9-7bc87d93b225")
-		(property "Reference" "SW65"
+		(property "Reference" "SW40"
 			(at 213.36 186.69 0)
 			(effects
 				(font
@@ -10348,7 +10478,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW65")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -10364,7 +10494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0156702d-9cde-4caf-a71f-917de79ccfdb")
-		(property "Reference" "D61"
+		(property "Reference" "D17"
 			(at 132.08 196.8499 90)
 			(effects
 				(font
@@ -10436,7 +10566,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D61")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -10452,7 +10582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "028f7950-9d24-4be9-ba05-b512ca4f6985")
-		(property "Reference" "D75"
+		(property "Reference" "D42"
 			(at 220.98 219.7099 90)
 			(effects
 				(font
@@ -10524,7 +10654,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D75")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -10540,7 +10670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0294d8f2-f5bf-4053-a3c8-97b62b49fd59")
-		(property "Reference" "D28"
+		(property "Reference" "D74"
 			(at 349.25 126.9999 90)
 			(effects
 				(font
@@ -10612,7 +10742,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D28")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -10627,7 +10757,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04455e2e-e8c0-49a9-97f0-67c1228768a6")
-		(property "Reference" "C11"
+		(property "Reference" "C14"
 			(at 164.338 483.87 90)
 			(effects
 				(font
@@ -10643,7 +10773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 165.1 484.1748 0)
 			(effects
 				(font
@@ -10679,7 +10809,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C11")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -10695,7 +10825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04e90cbe-99f9-45d4-86ca-7f84eba308a1")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 91.44 434.34 0)
 			(effects
 				(font
@@ -10899,7 +11029,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -10915,7 +11045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0723093d-d59f-495a-b5d3-b39d33209d47")
-		(property "Reference" "SW50"
+		(property "Reference" "SW33"
 			(at 190.5 163.83 0)
 			(effects
 				(font
@@ -10973,7 +11103,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW50")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -10989,7 +11119,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0972e283-6181-4d47-af05-aea5c3b891f9")
-		(property "Reference" "SW78"
+		(property "Reference" "SW59"
 			(at 276.86 209.55 0)
 			(effects
 				(font
@@ -11047,7 +11177,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW78")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -11063,7 +11193,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09d5b601-d4fa-4be6-afff-37701752237d")
-		(property "Reference" "SW6"
+		(property "Reference" "SW30"
 			(at 190.5 93.98 0)
 			(effects
 				(font
@@ -11121,7 +11251,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW6")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -11137,7 +11267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a3758bd-98f9-4945-a86c-28e0cfa8cff7")
-		(property "Reference" "D60"
+		(property "Reference" "D12"
 			(at 109.22 196.8499 90)
 			(effects
 				(font
@@ -11209,7 +11339,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D60")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -11225,7 +11355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bda3046-221b-4163-a2dd-fa0b71f6bcaa")
-		(property "Reference" "SW22"
+		(property "Reference" "SW37"
 			(at 213.36 116.84 0)
 			(effects
 				(font
@@ -11283,7 +11413,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW22")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -11299,7 +11429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0df3ff0a-ced8-4a97-9424-e5fecacdf903")
-		(property "Reference" "SW5"
+		(property "Reference" "SW24"
 			(at 168.91 93.98 0)
 			(effects
 				(font
@@ -11357,7 +11487,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW5")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -11372,7 +11502,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0e082fa2-629c-4444-93cd-7e8810ab0efd")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR022"
 			(at 130.81 474.98 0)
 			(effects
 				(font
@@ -11423,7 +11553,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR013")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11438,7 +11568,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0e5d38b4-60ba-46a7-a635-7bb1526c9ca4")
-		(property "Reference" "C12"
+		(property "Reference" "C1"
 			(at 53.086 444.754 90)
 			(effects
 				(font
@@ -11454,7 +11584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
 			(at 54.61 444.8048 0)
 			(effects
 				(font
@@ -11490,7 +11620,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C12")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -11505,7 +11635,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0eb57361-f117-4d1a-8a3e-8e296aa0829b")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 67.31 488.95 0)
 			(effects
 				(font
@@ -11555,7 +11685,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -11571,7 +11701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1036e15f-56f5-4af3-aafc-51184026e1d4")
-		(property "Reference" "D7"
+		(property "Reference" "D37"
 			(at 220.98 104.1399 90)
 			(effects
 				(font
@@ -11643,7 +11773,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D7")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -11659,7 +11789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10649f90-070b-4eb7-9005-cccdba435a98")
-		(property "Reference" "SW43"
+		(property "Reference" "SW74"
 			(at 341.63 139.7 0)
 			(effects
 				(font
@@ -11717,73 +11847,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 121.92 485.14 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "10c36772-76b0-4097-8b9b-78b634f265d3")
-		(property "Reference" "#PWR027"
-			(at 128.27 485.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 124.46 485.394 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.92 485.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 121.92 485.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 485.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dfc155c6-7dfa-46ad-b4b8-4dfa65466c6b")
-		)
-		(instances
-			(project "MechanicalKeyboard"
-				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR027")
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -11798,7 +11862,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "116a6070-82a6-40d2-8be3-ac870f52a8fc")
-		(property "Reference" "C3"
+		(property "Reference" "C12"
 			(at 130.048 495.554 0)
 			(effects
 				(font
@@ -11816,7 +11880,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 128.5748 494.03 0)
 			(effects
 				(font
@@ -11852,7 +11916,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C3")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -11867,7 +11931,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1267edad-4f17-4c4e-b0e9-c5951ebe4727")
-		(property "Reference" "C2"
+		(property "Reference" "C15"
 			(at 201.93 351.282 0)
 			(effects
 				(font
@@ -11885,7 +11949,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 200.9648 346.71 0)
 			(effects
 				(font
@@ -11921,7 +11985,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C2")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -11937,7 +12001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13a0e6d8-3a39-4fb4-9d27-e724c49d20d2")
-		(property "Reference" "D74"
+		(property "Reference" "D34"
 			(at 198.12 219.7099 90)
 			(effects
 				(font
@@ -12009,7 +12073,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D74")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -12025,7 +12089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b953ee0-e9ee-4ab8-9d90-20b9d5456c75")
-		(property "Reference" "SW31"
+		(property "Reference" "SW6"
 			(at 77.47 139.7 0)
 			(effects
 				(font
@@ -12083,74 +12147,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 118.11 485.14 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1cc002f7-9c61-4a3c-ad74-a2cc37a7561f")
-		(property "Reference" "C14"
-			(at 120.396 484.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "C"
-			(at 119.888 486.156 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.92 484.1748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 118.11 485.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 118.11 485.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b600ac40-1990-47a8-88ba-5e5aeddecd58")
-		)
-		(pin "1"
-			(uuid "3492a5a2-1e07-4393-8282-a3aab3895d52")
-		)
-		(instances
-			(project "MechanicalKeyboard"
-				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C14")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -12166,7 +12163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d0a6c96-70c9-4f1b-8c78-183012c97a9a")
-		(property "Reference" "SW21"
+		(property "Reference" "SW31"
 			(at 190.5 116.84 0)
 			(effects
 				(font
@@ -12224,7 +12221,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW21")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -12240,7 +12237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1db54706-d8df-4b9a-9067-cf4f9bd90e27")
-		(property "Reference" "D24"
+		(property "Reference" "D50"
 			(at 264.16 126.9999 90)
 			(effects
 				(font
@@ -12312,7 +12309,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D24")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -12328,7 +12325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ef57993-945f-4dc7-b33a-400c136fc208")
-		(property "Reference" "SW72"
+		(property "Reference" "SW82"
 			(at 363.22 186.69 0)
 			(effects
 				(font
@@ -12386,7 +12383,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW72")
+					(reference "SW82")
 					(unit 1)
 				)
 			)
@@ -12402,7 +12399,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22bb0033-a886-4315-b0dc-615e9aceb2e2")
-		(property "Reference" "SW76"
+		(property "Reference" "SW47"
 			(at 234.95 209.55 0)
 			(effects
 				(font
@@ -12460,7 +12457,73 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW76")
+					(reference "SW47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 60.96 444.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "23d820cc-543a-4bcf-8436-eee2da487d9e")
+		(property "Reference" "#PWR04"
+			(at 54.61 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 59.69 442.976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 60.96 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08ef81ff-fb7e-4331-aff3-6ec76f10fb61")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -12476,7 +12539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24e201ac-6d95-4199-bd81-21dc7ff97bb5")
-		(property "Reference" "SW16"
+		(property "Reference" "SW5"
 			(at 77.47 116.84 0)
 			(effects
 				(font
@@ -12534,7 +12597,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW16")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -12550,7 +12613,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27d8971c-1391-4fbc-bb20-b09fea135340")
-		(property "Reference" "D54"
+		(property "Reference" "D58"
 			(at 284.48 173.9899 90)
 			(effects
 				(font
@@ -12622,7 +12685,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D54")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -12638,7 +12701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27da558f-f833-4944-ac8f-116796591fbc")
-		(property "Reference" "SW83"
+		(property "Reference" "SW1"
 			(at 50.8 500.3799 90)
 			(effects
 				(font
@@ -12656,7 +12719,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 44.45 501.65 0)
 			(effects
 				(font
@@ -12692,7 +12755,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW83")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -12708,7 +12771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "289449e5-1e51-4910-87a1-cfe0a5cae0d3")
-		(property "Reference" "SW66"
+		(property "Reference" "SW46"
 			(at 234.95 186.69 0)
 			(effects
 				(font
@@ -12766,7 +12829,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW66")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -12782,7 +12845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29274a72-e235-4b4a-82ea-4cab2982f64f")
-		(property "Reference" "SW58"
+		(property "Reference" "SW81"
 			(at 363.22 163.83 0)
 			(effects
 				(font
@@ -12840,7 +12903,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW58")
+					(reference "SW81")
 					(unit 1)
 				)
 			)
@@ -12856,7 +12919,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2970a599-7364-48e7-95d4-e4904fa77bfb")
-		(property "Reference" "SW27"
+		(property "Reference" "SW67"
 			(at 320.04 116.84 0)
 			(effects
 				(font
@@ -12914,7 +12977,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW27")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -12930,7 +12993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29a421aa-f921-49c0-b6ef-6df8678b3752")
-		(property "Reference" "D78"
+		(property "Reference" "D60"
 			(at 284.48 219.7099 90)
 			(effects
 				(font
@@ -13002,7 +13065,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D78")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -13018,7 +13081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a01b7f1-9420-460d-ac10-9486f401a2aa")
-		(property "Reference" "D81"
+		(property "Reference" "D78"
 			(at 349.25 219.7099 90)
 			(effects
 				(font
@@ -13090,7 +13153,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D81")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -13106,7 +13169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a270691-42a6-43e2-99d7-3b0792ace31e")
-		(property "Reference" "SW64"
+		(property "Reference" "SW34"
 			(at 190.5 186.69 0)
 			(effects
 				(font
@@ -13164,7 +13227,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW64")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -13180,7 +13243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c874335-d5e7-44a3-becf-f9393a2d5aaf")
-		(property "Reference" "SW51"
+		(property "Reference" "SW39"
 			(at 213.36 163.83 0)
 			(effects
 				(font
@@ -13238,7 +13301,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW51")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -13254,7 +13317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d91e219-8513-4a52-9a14-3af3955eca36")
-		(property "Reference" "D76"
+		(property "Reference" "D48"
 			(at 242.57 219.7099 90)
 			(effects
 				(font
@@ -13326,7 +13389,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D76")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -13342,7 +13405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f341dea-e7c5-4a5c-8961-1cbbacc78773")
-		(property "Reference" "D11"
+		(property "Reference" "D61"
 			(at 306.07 104.1399 90)
 			(effects
 				(font
@@ -13414,7 +13477,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D11")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -13430,7 +13493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f3f084a-4bca-4452-bf86-8a716685b9a7")
-		(property "Reference" "D50"
+		(property "Reference" "D32"
 			(at 198.12 173.9899 90)
 			(effects
 				(font
@@ -13502,7 +13565,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D50")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -13518,7 +13581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fd8f54b-b022-40f4-85a4-7dc05c155a40")
-		(property "Reference" "D68"
+		(property "Reference" "D59"
 			(at 284.48 196.8499 90)
 			(effects
 				(font
@@ -13590,7 +13653,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D68")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -13606,7 +13669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fe32913-fa30-4201-99e7-154f2ac74b61")
-		(property "Reference" "SW44"
+		(property "Reference" "SW80"
 			(at 363.22 139.7 0)
 			(effects
 				(font
@@ -13664,7 +13727,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW44")
+					(reference "SW80")
 					(unit 1)
 				)
 			)
@@ -13679,7 +13742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30e20ec5-89ee-485f-a310-7922f30357c4")
-		(property "Reference" "C10"
+		(property "Reference" "C13"
 			(at 164.084 471.424 90)
 			(effects
 				(font
@@ -13695,7 +13758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 165.1 471.4748 0)
 			(effects
 				(font
@@ -13731,7 +13794,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C10")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -13747,7 +13810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31784a0f-34a3-4873-a0cf-2ffaf46e2928")
-		(property "Reference" "D42"
+		(property "Reference" "D69"
 			(at 327.66 149.8599 90)
 			(effects
 				(font
@@ -13819,7 +13882,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D42")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -13835,7 +13898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33570dae-32d7-4b8c-976a-1b6e4ba2e1cb")
-		(property "Reference" "SW20"
+		(property "Reference" "SW25"
 			(at 168.91 116.84 0)
 			(effects
 				(font
@@ -13893,7 +13956,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW20")
+					(reference "SW25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 49.53 482.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33708536-21b7-4094-bc64-6cdc0190b17e")
+		(property "Reference" "TP1"
+			(at 47.498 483.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 47.498 482.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 49.53 477.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 477.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 49.53 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "75e51182-4af7-48c5-8667-895b3a4a991c")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -13909,7 +14039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34615fdf-a0ee-4ec6-a9bb-4231f38f08e3")
-		(property "Reference" "SW56"
+		(property "Reference" "SW69"
 			(at 320.04 163.83 0)
 			(effects
 				(font
@@ -13967,7 +14097,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW56")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -13983,7 +14113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3585f06f-cd40-4bd2-aead-09de7ee0514c")
-		(property "Reference" "D62"
+		(property "Reference" "D22"
 			(at 153.67 196.8499 90)
 			(effects
 				(font
@@ -14055,7 +14185,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D62")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -14071,7 +14201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3639a765-ffca-4cf2-93dc-46e0cb8ff3f2")
-		(property "Reference" "D27"
+		(property "Reference" "D68"
 			(at 327.66 126.9999 90)
 			(effects
 				(font
@@ -14143,7 +14273,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D27")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -14159,7 +14289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3788e34b-00ee-4933-ad68-46f033daf8af")
-		(property "Reference" "D70"
+		(property "Reference" "D71"
 			(at 327.66 196.8499 90)
 			(effects
 				(font
@@ -14231,7 +14361,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D70")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -14247,7 +14377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37f6051e-1850-4458-bc2e-098b87f95b68")
-		(property "Reference" "D80"
+		(property "Reference" "D72"
 			(at 327.66 219.7099 90)
 			(effects
 				(font
@@ -14319,7 +14449,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D80")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -14334,7 +14464,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "382e830e-411d-42c9-b62f-66076009a1b6")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR011"
 			(at 109.22 322.58 0)
 			(effects
 				(font
@@ -14385,7 +14515,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR03")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14401,7 +14531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3991429c-5221-443d-b14b-1f74244d603c")
-		(property "Reference" "SW47"
+		(property "Reference" "SW17"
 			(at 124.46 163.83 0)
 			(effects
 				(font
@@ -14459,7 +14589,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW47")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -14475,7 +14605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b864548-e840-4061-8059-5e5025e82472")
-		(property "Reference" "D18"
+		(property "Reference" "D14"
 			(at 132.08 126.9999 90)
 			(effects
 				(font
@@ -14547,7 +14677,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D18")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -14563,7 +14693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b9c7372-ab7c-43b8-acd6-a241a52d074d")
-		(property "Reference" "D22"
+		(property "Reference" "D38"
 			(at 220.98 126.9999 90)
 			(effects
 				(font
@@ -14635,7 +14765,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D22")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -14651,7 +14781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c3be707-8ffb-4dc3-9b05-b59caaaf3d1e")
-		(property "Reference" "D65"
+		(property "Reference" "D41"
 			(at 220.98 196.8499 90)
 			(effects
 				(font
@@ -14723,7 +14853,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D65")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -14739,7 +14869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3da67942-2284-4aac-b3df-ac43cf676a44")
-		(property "Reference" "D38"
+		(property "Reference" "D45"
 			(at 242.57 149.8599 90)
 			(effects
 				(font
@@ -14811,7 +14941,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D38")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -14827,7 +14957,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3dcb7864-0f45-4c80-8a97-794c7481910a")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR06"
 			(at 60.96 478.79 0)
 			(effects
 				(font
@@ -14877,7 +15007,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR015")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -14893,7 +15023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e3b0f8f-1045-498c-bb46-2017d9881e50")
-		(property "Reference" "SW23"
+		(property "Reference" "SW43"
 			(at 234.95 116.84 0)
 			(effects
 				(font
@@ -14951,7 +15081,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW23")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -14967,7 +15097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e454cfb-8fa8-46de-bda5-7dfe780d8ead")
-		(property "Reference" "SW68"
+		(property "Reference" "SW58"
 			(at 276.86 186.69 0)
 			(effects
 				(font
@@ -15025,7 +15155,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW68")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -15057,7 +15187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 101.6 337.82 0)
 			(effects
 				(font
@@ -15154,7 +15284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40721267-ec1e-4ba1-8a17-5efa731b05da")
-		(property "Reference" "SW75"
+		(property "Reference" "SW41"
 			(at 213.36 209.55 0)
 			(effects
 				(font
@@ -15212,7 +15342,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW75")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -15246,7 +15376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 140.97 452.12 0)
 			(effects
 				(font
@@ -15298,7 +15428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "428e4a32-ae55-4bf4-8285-59e5a5ae72c0")
-		(property "Reference" "SW34"
+		(property "Reference" "SW21"
 			(at 146.05 139.7 0)
 			(effects
 				(font
@@ -15356,7 +15486,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW34")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -15372,7 +15502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "438e9e88-0de2-40b8-bc02-3599cbf3b442")
-		(property "Reference" "SW74"
+		(property "Reference" "SW35"
 			(at 190.5 209.55 0)
 			(effects
 				(font
@@ -15430,7 +15560,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW74")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -15446,7 +15576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "439f6c43-5201-4c8c-a7a1-ae1fe437e856")
-		(property "Reference" "SW9"
+		(property "Reference" "SW48"
 			(at 256.54 93.98 0)
 			(effects
 				(font
@@ -15504,7 +15634,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW9")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -15520,7 +15650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "447b4706-0352-487c-9d07-867e4f722dbf")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 270.51 327.66 0)
 			(effects
 				(font
@@ -15536,7 +15666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT23-6_1P7X3P02-0P95_SFE"
+		(property "Footprint" "footprints:QFN48_NRF52840-QFAA-R7_NOR-L"
 			(at 250.19 337.82 0)
 			(effects
 				(font
@@ -15586,7 +15716,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -15602,7 +15732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45b53180-693a-43e4-addf-d6872b4a616f")
-		(property "Reference" "SW38"
+		(property "Reference" "SW44"
 			(at 234.95 139.7 0)
 			(effects
 				(font
@@ -15660,7 +15790,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW38")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -15676,7 +15806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4676d93c-3564-4eec-8a6f-706612af172f")
-		(property "Reference" "SW73"
+		(property "Reference" "SW29"
 			(at 168.91 209.55 0)
 			(effects
 				(font
@@ -15734,7 +15864,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW73")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -15750,7 +15880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47e2042a-1108-4715-8ab8-d1de5bf2b1fc")
-		(property "Reference" "SW19"
+		(property "Reference" "SW20"
 			(at 146.05 116.84 0)
 			(effects
 				(font
@@ -15808,7 +15938,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW19")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -15824,7 +15954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4913e59e-9d6d-4503-81db-216fc116db92")
-		(property "Reference" "SW41"
+		(property "Reference" "SW62"
 			(at 298.45 139.7 0)
 			(effects
 				(font
@@ -15882,7 +16012,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW41")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -15898,7 +16028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49889c64-438a-48ef-9b50-47014ecde080")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR025"
 			(at 165.1 478.79 0)
 			(effects
 				(font
@@ -15948,7 +16078,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR018")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -15964,7 +16094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b90956f-8949-4775-9948-2635dc636ab0")
-		(property "Reference" "Y2"
+		(property "Reference" "Y1"
 			(at 58.42 448.3099 90)
 			(effects
 				(font
@@ -15982,7 +16112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 54.61 449.58 0)
 			(effects
 				(font
@@ -16018,7 +16148,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "Y2")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -16034,7 +16164,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f969886-6bf5-43da-91ad-638e756fbe4c")
-		(property "Reference" "SW54"
+		(property "Reference" "SW57"
 			(at 276.86 163.83 0)
 			(effects
 				(font
@@ -16092,7 +16222,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW54")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -16108,7 +16238,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ff2c1d0-1a05-4c41-a14c-502b2f505271")
-		(property "Reference" "SW10"
+		(property "Reference" "SW54"
 			(at 276.86 93.98 0)
 			(effects
 				(font
@@ -16166,7 +16296,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW10")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -16182,7 +16312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ff389ab-4270-4d15-a1fd-1add2d22ff78")
-		(property "Reference" "D39"
+		(property "Reference" "D51"
 			(at 264.16 149.8599 90)
 			(effects
 				(font
@@ -16254,7 +16384,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D39")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -16270,7 +16400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50f58427-fa42-4909-8987-e8346602bcca")
-		(property "Reference" "D46"
+		(property "Reference" "D11"
 			(at 109.22 173.9899 90)
 			(effects
 				(font
@@ -16342,7 +16472,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D46")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -16358,7 +16488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53f22dfd-12e9-43bc-b097-d5934a3136de")
-		(property "Reference" "SW46"
+		(property "Reference" "SW12"
 			(at 101.6 163.83 0)
 			(effects
 				(font
@@ -16416,7 +16546,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW46")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -16432,7 +16562,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "540673f6-521d-4f1e-ac64-518f6d2a8663")
-		(property "Reference" "SW40"
+		(property "Reference" "SW56"
 			(at 276.86 139.7 0)
 			(effects
 				(font
@@ -16490,7 +16620,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW40")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -16506,7 +16636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56683524-f297-4a92-82d7-71e12216fcd8")
-		(property "Reference" "SW8"
+		(property "Reference" "SW42"
 			(at 234.95 93.98 0)
 			(effects
 				(font
@@ -16564,7 +16694,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW8")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -16596,7 +16726,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 467.36 173.228 90)
 			(effects
 				(font
@@ -16648,7 +16778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "581396bf-7773-4381-ac54-7276e1135ec3")
-		(property "Reference" "D29"
+		(property "Reference" "D80"
 			(at 370.84 126.9999 90)
 			(effects
 				(font
@@ -16720,7 +16850,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D29")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -16736,7 +16866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5823f9bc-6cbc-4f5a-884b-cb773a3e7d4d")
-		(property "Reference" "D55"
+		(property "Reference" "D64"
 			(at 306.07 173.9899 90)
 			(effects
 				(font
@@ -16808,7 +16938,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D55")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -16824,7 +16954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "589ad987-5877-4b32-b2a4-2a4a281ecee5")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR024"
 			(at 140.97 501.65 0)
 			(effects
 				(font
@@ -16874,7 +17004,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR026")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -16889,7 +17019,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59c8b06b-59f3-436f-ab3a-1527b66a19d9")
-		(property "Reference" "C13"
+		(property "Reference" "C2"
 			(at 53.086 452.374 90)
 			(effects
 				(font
@@ -16905,7 +17035,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 54.61 452.4248 0)
 			(effects
 				(font
@@ -16941,7 +17071,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C13")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -16957,7 +17087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a3e0360-272a-4bd5-be3c-76ed334b1a6a")
-		(property "Reference" "D47"
+		(property "Reference" "D16"
 			(at 132.08 173.9899 90)
 			(effects
 				(font
@@ -17029,7 +17159,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D47")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -17060,7 +17190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 123.19 490.22 0)
 			(effects
 				(font
@@ -17112,7 +17242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d57da3e-0e2d-49ec-8a31-c65fa07074b9")
-		(property "Reference" "D32"
+		(property "Reference" "D10"
 			(at 109.22 149.8599 90)
 			(effects
 				(font
@@ -17184,7 +17314,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D32")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -17200,7 +17330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fc2432b-2620-40e2-ba52-ae31ba6abe3f")
-		(property "Reference" "SW55"
+		(property "Reference" "SW63"
 			(at 298.45 163.83 0)
 			(effects
 				(font
@@ -17258,7 +17388,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW55")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -17274,7 +17404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "604e17e5-2a11-4768-a359-bf664a195280")
-		(property "Reference" "C1"
+		(property "Reference" "C16"
 			(at 297.18 332.74 90)
 			(effects
 				(font
@@ -17290,7 +17420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 300.99 339.3948 0)
 			(effects
 				(font
@@ -17326,7 +17456,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C1")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -17342,7 +17472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "604fdd3c-a729-4aed-83b2-228009e1dd92")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 228.2033 327.66 0)
 			(effects
 				(font
@@ -17360,7 +17490,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
+		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm"
 			(at 226.568 365.76 0)
 			(effects
 				(font
@@ -17417,7 +17547,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -17433,7 +17563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61354926-ab21-4026-a9b2-f76e3f32a7be")
-		(property "Reference" "SW57"
+		(property "Reference" "SW75"
 			(at 341.63 163.83 0)
 			(effects
 				(font
@@ -17491,7 +17621,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW57")
+					(reference "SW75")
 					(unit 1)
 				)
 			)
@@ -17507,7 +17637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62eee821-ba55-4a49-9529-95ddab62e0c4")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 248.92 346.7099 0)
 			(effects
 				(font
@@ -17525,7 +17655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 248.158 347.98 90)
 			(effects
 				(font
@@ -17561,7 +17691,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -17577,7 +17707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63aecb03-cce2-449e-9a13-3999e6970577")
-		(property "Reference" "SW67"
+		(property "Reference" "SW52"
 			(at 256.54 186.69 0)
 			(effects
 				(font
@@ -17635,7 +17765,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW67")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -17651,7 +17781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64380167-b04e-43ba-a9c6-9e4f6aeb5f7d")
-		(property "Reference" "SW4"
+		(property "Reference" "SW19"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -17709,7 +17839,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW4")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -17725,7 +17855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64e6ff76-271b-4e06-b51a-00cc2b5cb07c")
-		(property "Reference" "D37"
+		(property "Reference" "D39"
 			(at 220.98 149.8599 90)
 			(effects
 				(font
@@ -17797,7 +17927,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D37")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -17813,7 +17943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64ea6e38-1af0-41d7-9c62-c0693bb64c53")
-		(property "Reference" "D35"
+		(property "Reference" "D25"
 			(at 176.53 149.8599 90)
 			(effects
 				(font
@@ -17885,7 +18015,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D35")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -17901,7 +18031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65db68db-76d3-4231-9f4b-c46e0293e490")
-		(property "Reference" "SW7"
+		(property "Reference" "SW36"
 			(at 213.36 93.98 0)
 			(effects
 				(font
@@ -17959,7 +18089,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW7")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -17975,7 +18105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66272257-0d2f-40f3-921f-d6cb13f03df7")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR02"
 			(at 46.99 459.74 0)
 			(effects
 				(font
@@ -18025,7 +18155,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR025")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -18040,7 +18170,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6683514a-44ae-4db1-86e0-1a782cd8fdc7")
-		(property "Reference" "TP1"
+		(property "Reference" "TP3"
 			(at 116.332 499.11 90)
 			(effects
 				(font
@@ -18059,7 +18189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 114.3 505.46 0)
 			(effects
 				(font
@@ -18092,7 +18222,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "TP1")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -18108,7 +18238,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a060431-f6f8-4554-8c20-4211ff00b33d")
-		(property "Reference" "D5"
+		(property "Reference" "D23"
 			(at 176.53 104.1399 90)
 			(effects
 				(font
@@ -18180,7 +18310,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D5")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -18196,7 +18326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aaccbdf-881f-46a8-847a-bcc55b95c85e")
-		(property "Reference" "D20"
+		(property "Reference" "D24"
 			(at 176.53 126.9999 90)
 			(effects
 				(font
@@ -18268,7 +18398,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D20")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -18284,7 +18414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e236758-32f3-417a-bdc5-bc68c756cc4b")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR028"
 			(at 504.19 171.45 0)
 			(effects
 				(font
@@ -18335,7 +18465,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR06")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -18351,7 +18481,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e8f49c6-b711-4b19-b6c6-e84cf43a81ea")
-		(property "Reference" "D23"
+		(property "Reference" "D44"
 			(at 242.57 126.9999 90)
 			(effects
 				(font
@@ -18423,7 +18553,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D23")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -18513,7 +18643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7367d501-b514-4093-a925-d3470b86d277")
-		(property "Reference" "D34"
+		(property "Reference" "D20"
 			(at 153.67 149.8599 90)
 			(effects
 				(font
@@ -18585,7 +18715,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D34")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -18601,7 +18731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74ef8345-c1ae-4acf-863f-c2edeafee223")
-		(property "Reference" "D8"
+		(property "Reference" "D43"
 			(at 242.57 104.1399 90)
 			(effects
 				(font
@@ -18673,7 +18803,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D8")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -18689,7 +18819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75e06ce9-9e5f-4ebe-8dc0-b40f7295569f")
-		(property "Reference" "SW79"
+		(property "Reference" "SW65"
 			(at 298.45 209.55 0)
 			(effects
 				(font
@@ -18747,7 +18877,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW79")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -18763,7 +18893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75e7123f-3e96-40a8-847f-d2fa434309a6")
-		(property "Reference" "D9"
+		(property "Reference" "D49"
 			(at 264.16 104.1399 90)
 			(effects
 				(font
@@ -18835,7 +18965,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D9")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -18850,7 +18980,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "763fb556-63ae-478e-9aa5-dce9c66b682f")
-		(property "Reference" "C7"
+		(property "Reference" "C11"
 			(at 121.666 473.964 90)
 			(effects
 				(font
@@ -18866,7 +18996,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 123.19 474.0148 0)
 			(effects
 				(font
@@ -18902,7 +19032,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C7")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -18918,7 +19048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "780696f7-9d46-4083-808a-3bfa22ffae31")
-		(property "Reference" "D49"
+		(property "Reference" "D26"
 			(at 176.53 173.9899 90)
 			(effects
 				(font
@@ -18990,7 +19120,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D49")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -19006,7 +19136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78e09a5b-fb68-499b-a671-c67d6aee23fa")
-		(property "Reference" "SW69"
+		(property "Reference" "SW64"
 			(at 298.45 186.69 0)
 			(effects
 				(font
@@ -19064,7 +19194,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW69")
+					(reference "SW64")
 					(unit 1)
 				)
 			)
@@ -19095,7 +19225,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 135.89 490.22 0)
 			(effects
 				(font
@@ -19147,7 +19277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "796ced02-2519-41d9-a5d8-bce2a43e42f6")
-		(property "Reference" "SW26"
+		(property "Reference" "SW61"
 			(at 298.45 116.84 0)
 			(effects
 				(font
@@ -19205,7 +19335,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW26")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -19221,7 +19351,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79d18300-2c79-4242-a01e-ba14c9600a16")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR027"
 			(at 226.06 364.49 0)
 			(effects
 				(font
@@ -19271,7 +19401,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR01")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -19287,7 +19417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a6ee59d-b81b-49ce-a802-58dbc17332d9")
-		(property "Reference" "SW3"
+		(property "Reference" "SW14"
 			(at 124.46 93.98 0)
 			(effects
 				(font
@@ -19345,7 +19475,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW3")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -19361,7 +19491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a7e351d-1474-4a79-a315-a1e85b1aaa41")
-		(property "Reference" "D15"
+		(property "Reference" "D1"
 			(at 60.96 126.9999 90)
 			(effects
 				(font
@@ -19433,7 +19563,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D15")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -19465,7 +19595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 123.19 329.438 90)
 			(effects
 				(font
@@ -19517,7 +19647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b8d95c9-e96f-486f-af39-66238b77e98f")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 262.4933 467.36 0)
 			(effects
 				(font
@@ -19535,7 +19665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm"
+		(property "Footprint" "SOT23-6_1P7X3P02-0P95_SFE"
 			(at 260.35 497.84 0)
 			(effects
 				(font
@@ -19652,7 +19782,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -19753,7 +19883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dde6bca-c7f5-4bae-bbec-4286b645c741")
-		(property "Reference" "D72"
+		(property "Reference" "D83"
 			(at 370.84 196.8499 90)
 			(effects
 				(font
@@ -19771,7 +19901,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 368.3 198.12 0)
 			(effects
 				(font
@@ -19825,7 +19955,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D72")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -19841,7 +19971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ea0c5a5-88a1-45dd-a0ce-d1f115768e90")
-		(property "Reference" "SW39"
+		(property "Reference" "SW50"
 			(at 256.54 139.7 0)
 			(effects
 				(font
@@ -19899,7 +20029,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW39")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -19915,7 +20045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f498048-e49b-4e40-a5ba-20241b9eeca7")
-		(property "Reference" "D63"
+		(property "Reference" "D27"
 			(at 176.53 196.8499 90)
 			(effects
 				(font
@@ -19987,7 +20117,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D63")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -20003,7 +20133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8113a704-3047-4d49-ad6f-1d7e06cf251f")
-		(property "Reference" "D40"
+		(property "Reference" "D57"
 			(at 284.48 149.8599 90)
 			(effects
 				(font
@@ -20075,7 +20205,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D40")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -20091,7 +20221,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "816936a4-1ac2-44fd-bde9-b26957786241")
-		(property "Reference" "SW13"
+		(property "Reference" "SW72"
 			(at 341.63 93.98 0)
 			(effects
 				(font
@@ -20149,7 +20279,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW13")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -20164,7 +20294,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8849c29c-c49f-483a-8d31-53754c5908ec")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR05"
 			(at 64.77 469.9 0)
 			(effects
 				(font
@@ -20214,7 +20344,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR08")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -20230,7 +20360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89983327-54ec-4284-84d0-42bd8dcc5d42")
-		(property "Reference" "D25"
+		(property "Reference" "D56"
 			(at 284.48 126.9999 90)
 			(effects
 				(font
@@ -20302,7 +20432,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D25")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -20318,7 +20448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8de7f93b-38ae-49d9-869b-de88784271a2")
-		(property "Reference" "SW37"
+		(property "Reference" "SW38"
 			(at 213.36 139.7 0)
 			(effects
 				(font
@@ -20376,7 +20506,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW37")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -20392,7 +20522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ded9e5a-559d-4f26-991a-689f891a7db6")
-		(property "Reference" "D66"
+		(property "Reference" "D47"
 			(at 242.57 196.8499 90)
 			(effects
 				(font
@@ -20464,7 +20594,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D66")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -20479,7 +20609,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "922a33f7-fe4a-45c2-93fe-f5538e32a336")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 62.738 471.424 90)
 			(effects
 				(font
@@ -20495,7 +20625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 68.58 471.4748 0)
 			(effects
 				(font
@@ -20531,7 +20661,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -20547,7 +20677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95206835-70fe-4209-ad22-b35cb1796fd3")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR021"
 			(at 121.92 511.81 0)
 			(effects
 				(font
@@ -20597,7 +20727,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR012")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -20613,7 +20743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96b0215e-c8d7-43e8-a163-920c6aadc074")
-		(property "Reference" "D36"
+		(property "Reference" "D31"
 			(at 198.12 149.8599 90)
 			(effects
 				(font
@@ -20685,7 +20815,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D36")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -20701,7 +20831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "987d4fbd-dcca-4bce-9807-3957716e402d")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR029"
 			(at 662.94 179.07 0)
 			(effects
 				(font
@@ -20751,7 +20881,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR05")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -20783,7 +20913,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FS8205A:SOP65P640X120-8N"
 			(at 270.51 365.76 0)
 			(effects
 				(font
@@ -20853,7 +20983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a22808f-ecb4-4e8a-a46b-f278296b8deb")
-		(property "Reference" "D41"
+		(property "Reference" "D63"
 			(at 306.07 149.8599 90)
 			(effects
 				(font
@@ -20925,7 +21055,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D41")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -20941,7 +21071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a895bb3-dffa-46dd-99ff-9b5968f92573")
-		(property "Reference" "R4"
+		(property "Reference" "R5"
 			(at 241.3 349.2499 0)
 			(effects
 				(font
@@ -20959,7 +21089,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 240.538 350.52 90)
 			(effects
 				(font
@@ -20995,7 +21125,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "R4")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -21011,7 +21141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c2f42f7-cd48-4874-9531-c8540edcaa63")
-		(property "Reference" "SW82"
+		(property "Reference" "SW83"
 			(at 363.22 209.55 0)
 			(effects
 				(font
@@ -21069,7 +21199,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW82")
+					(reference "SW83")
 					(unit 1)
 				)
 			)
@@ -21085,7 +21215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c9f0913-9d5b-41cc-b6d3-47d5d18175e3")
-		(property "Reference" "SW11"
+		(property "Reference" "SW60"
 			(at 298.45 93.98 0)
 			(effects
 				(font
@@ -21143,7 +21273,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW11")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -21158,7 +21288,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ea20b36-e30c-489f-b83d-3424be6cc627")
-		(property "Reference" "R5"
+		(property "Reference" "R3"
 			(at 205.74 347.726 0)
 			(effects
 				(font
@@ -21177,7 +21307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 208.788 349.25 90)
 			(effects
 				(font
@@ -21213,7 +21343,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "R5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -21228,7 +21358,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9fbe4706-e762-4c33-8636-23a1b0a0849a")
-		(property "Reference" "R6"
+		(property "Reference" "R4"
 			(at 209.55 347.98 0)
 			(effects
 				(font
@@ -21247,7 +21377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 212.598 349.25 90)
 			(effects
 				(font
@@ -21283,7 +21413,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "R6")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -21299,7 +21429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2bb6c43-5efd-41b1-b77d-bbf3f8878747")
-		(property "Reference" "SW17"
+		(property "Reference" "SW10"
 			(at 101.6 116.84 0)
 			(effects
 				(font
@@ -21357,7 +21487,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW17")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -21373,7 +21503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a49b2a79-f859-4479-8ec0-10e0882917cf")
-		(property "Reference" "D67"
+		(property "Reference" "D53"
 			(at 264.16 196.8499 90)
 			(effects
 				(font
@@ -21445,7 +21575,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D67")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -21461,7 +21591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6eb29b9-c5dd-4efe-a352-55e8c883221e")
-		(property "Reference" "SW63"
+		(property "Reference" "SW28"
 			(at 168.91 186.69 0)
 			(effects
 				(font
@@ -21519,7 +21649,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW63")
+					(reference "SW28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 96.52 426.72 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a6eddf8f-071b-497e-9161-9402c475f132")
+		(property "Reference" "C6"
+			(at 95.504 424.434 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 97.79 424.942 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 95.5548 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 426.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 96.52 426.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "99c092ac-b8e0-4eaf-b922-cfcc42d5d372")
+		)
+		(pin "1"
+			(uuid "b6a1f5b1-cf63-457d-bd3c-3f2e34d5e716")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -21535,7 +21732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6f278f9-34f1-46fb-867d-d511c4d2c8de")
-		(property "Reference" "D4"
+		(property "Reference" "D18"
 			(at 153.67 104.1399 90)
 			(effects
 				(font
@@ -21607,7 +21804,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D4")
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 93.98 515.62 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a731dd30-0cf4-468c-9e41-ab16b148e50b")
+		(property "Reference" "TP2"
+			(at 95.25 517.652 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 93.98 517.652 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 88.9 515.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 515.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 93.98 515.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d227895a-9b2d-4b98-ad10-213114775a2a")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -21622,7 +21886,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a968733e-1b55-4bcd-9c6d-eed76d8fe03a")
-		(property "Reference" "C8"
+		(property "Reference" "C10"
 			(at 120.396 504.19 90)
 			(effects
 				(font
@@ -21638,7 +21902,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 121.92 504.4948 0)
 			(effects
 				(font
@@ -21674,7 +21938,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C8")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -21690,7 +21954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa049576-1158-41ca-a242-36ae471bbe2d")
-		(property "Reference" "D82"
+		(property "Reference" "D84"
 			(at 370.84 219.7099 90)
 			(effects
 				(font
@@ -21708,7 +21972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 368.3 220.98 0)
 			(effects
 				(font
@@ -21762,7 +22026,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D82")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -21778,7 +22042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab1e361a-a2b2-4a24-b919-160633d1c5dc")
-		(property "Reference" "SW33"
+		(property "Reference" "SW16"
 			(at 124.46 139.7 0)
 			(effects
 				(font
@@ -21836,7 +22100,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW33")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -21852,7 +22116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acf09c26-9f25-42e5-9cb8-0da5d69079b1")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR012"
 			(at 114.3 438.15 0)
 			(effects
 				(font
@@ -21902,7 +22166,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR022")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -21918,7 +22182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae71e39c-748c-41a8-85df-9e266c3b6645")
-		(property "Reference" "D79"
+		(property "Reference" "D66"
 			(at 306.07 219.7099 90)
 			(effects
 				(font
@@ -21990,7 +22254,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D79")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -22004,9 +22268,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "af109edc-febe-4a47-a6e4-c983179d6c02")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR017"
 			(at 128.27 447.04 0)
 			(effects
 				(font
@@ -22016,7 +22279,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 447.0399 90)
+			(at 124.206 447.802 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22057,7 +22320,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR014")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -22089,7 +22352,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 483.87 173.228 90)
 			(effects
 				(font
@@ -22141,7 +22404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3977320-15fc-436e-8dbc-2c678dcd78cf")
-		(property "Reference" "D26"
+		(property "Reference" "D62"
 			(at 306.07 126.9999 90)
 			(effects
 				(font
@@ -22213,7 +22476,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D26")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -22229,7 +22492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b455b8fd-e16d-415b-902a-1c4314b1944a")
-		(property "Reference" "SW1"
+		(property "Reference" "SW4"
 			(at 77.47 93.98 0)
 			(effects
 				(font
@@ -22287,7 +22550,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW1")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -22302,7 +22565,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b543b520-b27e-4885-be4d-e7bb00bfa23a")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR019"
 			(at 118.11 472.44 0)
 			(effects
 				(font
@@ -22352,7 +22615,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR010")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -22368,7 +22631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b54f61ca-0490-4d95-b599-d030cfc51c4f")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR07"
 			(at 54.61 485.14 0)
 			(effects
 				(font
@@ -22419,7 +22682,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR016")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -22435,7 +22698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5d30de0-dfe3-4491-97be-8c4b2ef9e10f")
-		(property "Reference" "D52"
+		(property "Reference" "D46"
 			(at 242.57 173.9899 90)
 			(effects
 				(font
@@ -22507,7 +22770,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D52")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -22523,7 +22786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6c70e97-2de8-4d21-8d8e-9823446f0d28")
-		(property "Reference" "D64"
+		(property "Reference" "D33"
 			(at 198.12 196.8499 90)
 			(effects
 				(font
@@ -22595,7 +22858,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D64")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -22611,7 +22874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6f40033-e342-46c4-8164-cec2b2fb8953")
-		(property "Reference" "D51"
+		(property "Reference" "D40"
 			(at 220.98 173.9899 90)
 			(effects
 				(font
@@ -22683,7 +22946,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D51")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -22699,7 +22962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b72f841a-b273-41d3-9ccf-9eba7354f3df")
-		(property "Reference" "SW12"
+		(property "Reference" "SW66"
 			(at 320.04 93.98 0)
 			(effects
 				(font
@@ -22757,7 +23020,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW12")
+					(reference "SW66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 64.77 444.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8487e9c-e781-4eaf-a5d5-cb67d0a77a64")
+		(property "Reference" "C3"
+			(at 61.976 445.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 62.992 443.484 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 60.96 445.4652 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 64.77 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "286939a4-b884-48e6-bef7-59523c429988")
+		)
+		(pin "1"
+			(uuid "01e7bca8-383d-462d-bf07-7f31579f55b2")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -22773,7 +23103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9bff5f9-647b-4285-a455-7e201e34fc42")
-		(property "Reference" "SW62"
+		(property "Reference" "SW23"
 			(at 146.05 186.69 0)
 			(effects
 				(font
@@ -22831,7 +23161,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW62")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -22847,7 +23177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba0a3597-b775-48a7-b50a-b1ac30820068")
-		(property "Reference" "D69"
+		(property "Reference" "D65"
 			(at 306.07 196.8499 90)
 			(effects
 				(font
@@ -22919,7 +23249,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D69")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -22934,7 +23264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba444514-f16e-42b9-b7dd-dc9fcd8b3b74")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR016"
 			(at 116.84 443.23 0)
 			(effects
 				(font
@@ -22944,7 +23274,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 125.73 443.23 0)
+			(at 123.952 441.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22984,7 +23314,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR09")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -23000,7 +23330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb636e91-525e-4ce3-91fe-a193eb050abf")
-		(property "Reference" "D53"
+		(property "Reference" "D52"
 			(at 264.16 173.9899 90)
 			(effects
 				(font
@@ -23072,7 +23402,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D53")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -23087,7 +23417,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bbe57940-668a-40c6-b193-80bf18e5ad72")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR013"
 			(at 120.65 454.66 0)
 			(effects
 				(font
@@ -23138,7 +23468,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR023")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -23154,7 +23484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbf11d18-1dd5-4678-a4b7-c3527f5346af")
-		(property "Reference" "D10"
+		(property "Reference" "D55"
 			(at 284.48 104.1399 90)
 			(effects
 				(font
@@ -23226,7 +23556,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D10")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -23242,7 +23572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bde326dc-dce9-46ea-8156-3f3fe44dc408")
-		(property "Reference" "SW29"
+		(property "Reference" "SW79"
 			(at 363.22 116.84 0)
 			(effects
 				(font
@@ -23300,7 +23630,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW29")
+					(reference "SW79")
 					(unit 1)
 				)
 			)
@@ -23315,7 +23645,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bee2c2cc-efef-42fa-9750-4081893f5893")
-		(property "Reference" "C9"
+		(property "Reference" "C8"
 			(at 120.396 451.104 90)
 			(effects
 				(font
@@ -23331,7 +23661,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 121.92 451.1548 0)
 			(effects
 				(font
@@ -23367,7 +23697,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C9")
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 96.52 422.91 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf60d1cb-6114-47f3-b581-4793e7669341")
+		(property "Reference" "#PWR09"
+			(at 96.52 416.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.5199 419.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 96.52 422.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "55aa412b-9488-4b47-bddf-67904fea3a23")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -23383,7 +23780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf84d0a6-2f79-4605-8a6c-c7db7cb12f12")
-		(property "Reference" "D2"
+		(property "Reference" "D8"
 			(at 109.22 104.1399 90)
 			(effects
 				(font
@@ -23455,7 +23852,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D2")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -23471,7 +23868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1f99e80-8f53-4779-8c37-c0bb307008cd")
-		(property "Reference" "SW24"
+		(property "Reference" "SW49"
 			(at 256.54 116.84 0)
 			(effects
 				(font
@@ -23529,7 +23926,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW24")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -23545,7 +23942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c46962d9-9e1d-47e0-9ffa-f051c77186be")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR01"
 			(at 46.99 452.12 0)
 			(effects
 				(font
@@ -23595,7 +23992,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR024")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -23611,7 +24008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4d35a70-5f38-4d3e-aab3-e68050a46250")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR026"
 			(at 165.1 491.49 0)
 			(effects
 				(font
@@ -23661,7 +24058,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR019")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -23677,7 +24074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5305337-4ed5-4080-ba5e-cbf9e2d0323c")
-		(property "Reference" "D59"
+		(property "Reference" "D7"
 			(at 85.09 196.8499 90)
 			(effects
 				(font
@@ -23749,7 +24146,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D59")
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 119.38 458.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c645f69e-7dbd-44fe-817b-2c453a151459")
+		(property "Reference" "TP4"
+			(at 121.412 457.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 121.412 458.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 119.38 463.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 463.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 119.38 458.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cdbb2e60-f68d-49ca-a7da-954e7f74adc2")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -23765,7 +24229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c68c80e7-f37d-482f-bef4-4472eeed103a")
-		(property "Reference" "D48"
+		(property "Reference" "D21"
 			(at 153.67 173.9899 90)
 			(effects
 				(font
@@ -23837,7 +24301,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D48")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -23853,7 +24317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c965d4f1-2811-483a-a0a4-5343455e646b")
-		(property "Reference" "SW42"
+		(property "Reference" "SW68"
 			(at 320.04 139.7 0)
 			(effects
 				(font
@@ -23911,7 +24375,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW42")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -23927,7 +24391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9d11b64-3bf2-4064-9944-547db8dd77cc")
-		(property "Reference" "SW45"
+		(property "Reference" "SW7"
 			(at 77.47 163.83 0)
 			(effects
 				(font
@@ -23985,7 +24449,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW45")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -24001,7 +24465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9f4653a-2e3a-4c67-9ffd-b503b83fc3ca")
-		(property "Reference" "D31"
+		(property "Reference" "D5"
 			(at 85.09 149.8599 90)
 			(effects
 				(font
@@ -24073,7 +24537,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D31")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -24089,7 +24553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "caee2077-a376-412c-96e1-d5d8c40785ca")
-		(property "Reference" "SW77"
+		(property "Reference" "SW53"
 			(at 256.54 209.55 0)
 			(effects
 				(font
@@ -24147,7 +24611,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW77")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -24163,7 +24627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb122993-1b6a-4712-8269-1fa224dfbe9e")
-		(property "Reference" "D3"
+		(property "Reference" "D13"
 			(at 132.08 104.1399 90)
 			(effects
 				(font
@@ -24235,7 +24699,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D3")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -24251,7 +24715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb5add2b-1de8-41cf-9969-6abba091e03a")
-		(property "Reference" "SW81"
+		(property "Reference" "SW77"
 			(at 341.63 209.55 0)
 			(effects
 				(font
@@ -24309,7 +24773,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW81")
+					(reference "SW77")
 					(unit 1)
 				)
 			)
@@ -24325,7 +24789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbf4ea37-0846-4fb2-93c5-2c80b6f8fb5a")
-		(property "Reference" "D45"
+		(property "Reference" "D6"
 			(at 85.09 173.9899 90)
 			(effects
 				(font
@@ -24397,7 +24861,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D45")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -24412,7 +24876,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd553af5-61ed-4eb8-bc80-d40bffab2892")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR015"
 			(at 114.3 501.65 0)
 			(effects
 				(font
@@ -24462,7 +24926,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR011")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -24478,7 +24942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cddd1e65-83f2-4e4e-91c5-c41cd1c46c5d")
-		(property "Reference" "SW52"
+		(property "Reference" "SW45"
 			(at 234.95 163.83 0)
 			(effects
 				(font
@@ -24536,7 +25000,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW52")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -24552,7 +25016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ceeb0d92-a92f-4611-911c-98ee8595298d")
-		(property "Reference" "SW18"
+		(property "Reference" "SW15"
 			(at 124.46 116.84 0)
 			(effects
 				(font
@@ -24610,7 +25074,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW18")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -24626,7 +25090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf538fec-a89f-46db-b360-29a5f41b5bec")
-		(property "Reference" "D12"
+		(property "Reference" "D67"
 			(at 327.66 104.1399 90)
 			(effects
 				(font
@@ -24698,7 +25162,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D12")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -24714,7 +25178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf8d57bc-1987-43aa-abd4-3b5ec2adac2d")
-		(property "Reference" "D73"
+		(property "Reference" "D28"
 			(at 176.53 219.7099 90)
 			(effects
 				(font
@@ -24786,7 +25250,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D73")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -24801,7 +25265,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d05a96b6-7c11-4830-a9c1-711ac938e965")
-		(property "Reference" "D166"
+		(property "Reference" "D36"
 			(at 209.296 342.392 90)
 			(effects
 				(font
@@ -24819,7 +25283,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 341.63 0)
 			(effects
 				(font
@@ -24864,7 +25328,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D166")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -24880,7 +25344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2b0e281-4eb3-4a9a-b8ec-14ce9fa565e1")
-		(property "Reference" "D33"
+		(property "Reference" "D15"
 			(at 132.08 149.8599 90)
 			(effects
 				(font
@@ -24952,7 +25416,74 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D33")
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 118.11 482.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3a90c66-851d-4dcc-bcc7-4b6f439864f1")
+		(property "Reference" "C9"
+			(at 120.904 481.838 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 119.888 483.616 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 121.92 481.6348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 118.11 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cc8177ec-e3eb-4014-ab70-136ca92a6b10")
+		)
+		(pin "1"
+			(uuid "ad5c4c4e-c644-4f6b-8353-bf26e0a1f8ef")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -24968,7 +25499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4386906-a626-4520-8d37-29ccde19e2af")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR03"
 			(at 49.53 513.08 0)
 			(effects
 				(font
@@ -25018,7 +25549,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR020")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -25033,7 +25564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4add876-8b4f-4666-875a-382097a7f04d")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR014"
 			(at 120.65 487.68 0)
 			(effects
 				(font
@@ -25084,7 +25615,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR021")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -25100,7 +25631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d887a842-c50f-40b5-ba6e-aaea0dbf93f8")
-		(property "Reference" "SW35"
+		(property "Reference" "SW26"
 			(at 168.91 139.7 0)
 			(effects
 				(font
@@ -25158,7 +25689,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW35")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -25174,7 +25705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc1c5634-e76e-46a9-b1f1-71177a6f0874")
-		(property "Reference" "D77"
+		(property "Reference" "D54"
 			(at 264.16 219.7099 90)
 			(effects
 				(font
@@ -25246,7 +25777,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D77")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -25260,9 +25791,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dcbb54b4-c1d5-47c5-9e5c-8a768f60bd90")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR018"
 			(at 128.27 452.12 0)
 			(effects
 				(font
@@ -25272,7 +25802,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 452.1199 90)
+			(at 123.444 453.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25313,7 +25843,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR017")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -25329,7 +25859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd1bf6b2-fe46-48e1-bf45-cbcc22d53b67")
-		(property "Reference" "D30"
+		(property "Reference" "D2"
 			(at 60.96 149.8599 90)
 			(effects
 				(font
@@ -25401,7 +25931,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D30")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -25417,7 +25947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de06dbe9-0097-499b-bc9e-83ccf6c9993b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR010"
 			(at 97.79 367.03 0)
 			(effects
 				(font
@@ -25467,7 +25997,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR04")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -25483,7 +26013,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dede852a-cf73-4b90-9400-c1a36f7c1322")
-		(property "Reference" "SW61"
+		(property "Reference" "SW18"
 			(at 124.46 186.69 0)
 			(effects
 				(font
@@ -25541,7 +26071,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW61")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -25557,7 +26087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e00d0f0e-aece-43a5-9e4d-3d33b50d21bc")
-		(property "Reference" "SW49"
+		(property "Reference" "SW27"
 			(at 168.91 163.83 0)
 			(effects
 				(font
@@ -25615,7 +26145,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW49")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -25631,7 +26161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1033ef6-99ef-425d-a322-b354b53e7548")
-		(property "Reference" "D44"
+		(property "Reference" "D81"
 			(at 370.84 149.8599 90)
 			(effects
 				(font
@@ -25703,7 +26233,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D44")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -25719,7 +26249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4be15bd-1568-4b43-a816-f82e48201546")
-		(property "Reference" "Y1"
+		(property "Reference" "Y2"
 			(at 154.94 477.5199 90)
 			(effects
 				(font
@@ -25737,7 +26267,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 151.13 478.79 0)
 			(effects
 				(font
@@ -25773,7 +26303,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "Y1")
+					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -25789,7 +26319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e571461c-3ad3-4f64-a5a2-311db6b2b1ef")
-		(property "Reference" "D43"
+		(property "Reference" "D75"
 			(at 349.25 149.8599 90)
 			(effects
 				(font
@@ -25861,7 +26391,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D43")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -25877,7 +26407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5bc8bdc-6da7-4618-8a7d-bec78ce9bf90")
-		(property "Reference" "D58"
+		(property "Reference" "D82"
 			(at 370.84 173.9899 90)
 			(effects
 				(font
@@ -25949,7 +26479,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D58")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -25965,7 +26495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5d564ff-1c8e-4095-b22f-dfca5a6868ee")
-		(property "Reference" "D56"
+		(property "Reference" "D70"
 			(at 327.66 173.9899 90)
 			(effects
 				(font
@@ -26037,7 +26567,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D56")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -26052,7 +26582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6449359-a522-4f7c-87f9-a68fa8047db5")
-		(property "Reference" "D84"
+		(property "Reference" "D35"
 			(at 205.486 342.138 90)
 			(effects
 				(font
@@ -26070,7 +26600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 207.01 341.63 0)
 			(effects
 				(font
@@ -26115,7 +26645,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D84")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -26131,7 +26661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea8954f2-7e83-4ed2-9a2d-78b07328f1ef")
-		(property "Reference" "SW80"
+		(property "Reference" "SW71"
 			(at 320.04 209.55 0)
 			(effects
 				(font
@@ -26189,7 +26719,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW80")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -26205,7 +26735,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea9a43a2-0ae0-4961-8145-8cdf065267c1")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR023"
 			(at 140.97 336.55 0)
 			(effects
 				(font
@@ -26255,7 +26785,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR02")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -26270,7 +26800,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb0b98dc-62a8-4ea4-a296-1896db096ffd")
-		(property "Reference" "TP2"
+		(property "Reference" "TP5"
 			(at 121.412 500.38 90)
 			(effects
 				(font
@@ -26289,7 +26819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 119.38 506.73 0)
 			(effects
 				(font
@@ -26322,7 +26852,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "TP2")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -26338,7 +26868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebd5cc07-4a45-488e-96ca-22e5ab983235")
-		(property "Reference" "D21"
+		(property "Reference" "D30"
 			(at 198.12 126.9999 90)
 			(effects
 				(font
@@ -26410,7 +26940,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D21")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -26426,7 +26956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec05eb67-df8f-48cb-9ead-87c2521ab54f")
-		(property "Reference" "SW32"
+		(property "Reference" "SW11"
 			(at 101.6 139.7 0)
 			(effects
 				(font
@@ -26484,7 +27014,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW32")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -26516,7 +27046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 133.35 331.978 90)
 			(effects
 				(font
@@ -26568,7 +27098,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec51fc5c-862b-4010-8261-aaf111c01c65")
-		(property "Reference" "SW25"
+		(property "Reference" "SW55"
 			(at 276.86 116.84 0)
 			(effects
 				(font
@@ -26626,7 +27156,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW25")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -26642,7 +27172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee876714-fdbb-40ac-a899-bd9ead519792")
-		(property "Reference" "SW59"
+		(property "Reference" "SW8"
 			(at 77.47 186.69 0)
 			(effects
 				(font
@@ -26700,7 +27230,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW59")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -26716,7 +27246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efab8fa7-4dbf-4438-a7f8-ac69250d0805")
-		(property "Reference" "D57"
+		(property "Reference" "D76"
 			(at 349.25 173.9899 90)
 			(effects
 				(font
@@ -26788,7 +27318,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D57")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -26804,7 +27334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "effea431-8edf-442c-8d78-c96a6081896b")
-		(property "Reference" "SW30"
+		(property "Reference" "SW3"
 			(at 53.34 139.7 0)
 			(effects
 				(font
@@ -26862,7 +27392,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW30")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -26878,7 +27408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0325318-ad03-47d8-9c5d-13175867b315")
-		(property "Reference" "SW28"
+		(property "Reference" "SW73"
 			(at 341.63 116.84 0)
 			(effects
 				(font
@@ -26936,7 +27466,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW28")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -26952,7 +27482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f05e9041-0a4d-4c00-abdb-b7a040373869")
-		(property "Reference" "D17"
+		(property "Reference" "D9"
 			(at 109.22 126.9999 90)
 			(effects
 				(font
@@ -27024,7 +27554,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D17")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -27040,7 +27570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2fc38c7-d053-43cf-a861-773a3b9ebd4c")
-		(property "Reference" "D14"
+		(property "Reference" "D79"
 			(at 370.84 104.1399 90)
 			(effects
 				(font
@@ -27112,7 +27642,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D14")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -27128,7 +27658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f33ddef9-89e0-4543-881d-a2d7378fc278")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 85.09 104.1399 90)
 			(effects
 				(font
@@ -27200,7 +27730,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -27304,7 +27834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6ab92b1-35ca-41a3-a1d8-7071c298e490")
-		(property "Reference" "SW48"
+		(property "Reference" "SW22"
 			(at 146.05 163.83 0)
 			(effects
 				(font
@@ -27362,7 +27892,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW48")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -27378,7 +27908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6c24576-b8f1-4144-84cf-0402db8cf9e3")
-		(property "Reference" "D6"
+		(property "Reference" "D29"
 			(at 198.12 104.1399 90)
 			(effects
 				(font
@@ -27450,7 +27980,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D6")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -27466,7 +27996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f76e68a2-20a3-448d-a3d2-476169061006")
-		(property "Reference" "SW60"
+		(property "Reference" "SW13"
 			(at 101.6 186.69 0)
 			(effects
 				(font
@@ -27524,7 +28054,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW60")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -27540,7 +28070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8212b4e-79fb-4c11-96fb-f77e58a61118")
-		(property "Reference" "R3"
+		(property "Reference" "R7"
 			(at 304.8 339.09 90)
 			(effects
 				(font
@@ -27556,7 +28086,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 304.8 347.218 90)
 			(effects
 				(font
@@ -27592,7 +28122,7 @@
 		(instances
 			(project ""
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "R3")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -27608,7 +28138,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f88f265a-b751-4cb2-8291-74fdd7e0ea00")
-		(property "Reference" "SW36"
+		(property "Reference" "SW32"
 			(at 190.5 139.7 0)
 			(effects
 				(font
@@ -27666,7 +28196,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW36")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -27682,7 +28212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f94adc01-4452-408b-965d-6bc9a95ab1dd")
-		(property "Reference" "D16"
+		(property "Reference" "D4"
 			(at 85.09 126.9999 90)
 			(effects
 				(font
@@ -27754,7 +28284,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D16")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -27770,7 +28300,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9812f46-15c0-4425-ab36-3ba7d548a1b2")
-		(property "Reference" "SW15"
+		(property "Reference" "SW2"
 			(at 53.34 116.84 0)
 			(effects
 				(font
@@ -27828,7 +28358,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW15")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -27844,7 +28374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "faf8bc6d-fd03-462e-838d-c4b67547fdfb")
-		(property "Reference" "SW53"
+		(property "Reference" "SW51"
 			(at 256.54 163.83 0)
 			(effects
 				(font
@@ -27902,7 +28432,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW53")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -27917,7 +28447,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc1e055c-bfff-4f5e-9e85-d859220b215b")
-		(property "Reference" "C4"
+		(property "Reference" "C7"
 			(at 120.396 446.024 90)
 			(effects
 				(font
@@ -27933,7 +28463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 121.92 446.0748 0)
 			(effects
 				(font
@@ -27969,7 +28499,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "C4")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -27985,7 +28515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd10f630-218b-4c2f-b2d4-55c5ac63623d")
-		(property "Reference" "D71"
+		(property "Reference" "D77"
 			(at 349.25 196.8499 90)
 			(effects
 				(font
@@ -28057,7 +28587,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D71")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -28073,7 +28603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd436e1c-6b15-45a7-8545-6cd961f6b410")
-		(property "Reference" "SW14"
+		(property "Reference" "SW78"
 			(at 363.22 93.98 0)
 			(effects
 				(font
@@ -28131,7 +28661,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW14")
+					(reference "SW78")
 					(unit 1)
 				)
 			)
@@ -28147,7 +28677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe97e8de-2321-46ed-8770-0c6680101881")
-		(property "Reference" "SW2"
+		(property "Reference" "SW9"
 			(at 101.6 93.98 0)
 			(effects
 				(font
@@ -28205,7 +28735,73 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW2")
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 121.92 482.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fea31943-0b24-4959-a0d9-9083d66bc0fa")
+		(property "Reference" "#PWR020"
+			(at 128.27 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 124.206 482.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 482.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9381a508-aada-4930-bd78-c936531263fa")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -28221,7 +28817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff7bf93b-2d5d-4f83-a266-2f234a4845d3")
-		(property "Reference" "D13"
+		(property "Reference" "D73"
 			(at 349.25 104.1399 90)
 			(effects
 				(font
@@ -28293,7 +28889,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "D13")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -28309,7 +28905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffbe3e52-2311-4964-866b-d478b7d240f1")
-		(property "Reference" "SW71"
+		(property "Reference" "SW76"
 			(at 341.63 186.69 0)
 			(effects
 				(font
@@ -28367,7 +28963,7 @@
 		(instances
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "SW71")
+					(reference "SW76")
 					(unit 1)
 				)
 			)
