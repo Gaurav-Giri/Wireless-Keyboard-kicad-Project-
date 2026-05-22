@@ -10189,28 +10189,6 @@
 			)
 		)
 	)
-	(global_label "VSS_PA"
-		(shape input)
-		(at 140.97 508 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "dcb9ea26-f09e-4dba-aec5-e7e124a27e23")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.97 517.819 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VBAT"
 		(shape input)
 		(at 459.74 171.45 180)
@@ -11584,7 +11562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 54.61 444.8048 0)
 			(effects
 				(font
@@ -15666,7 +15644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:QFN48_NRF52840-QFAA-R7_NOR-L"
+		(property "Footprint" "DW01A:SOT23-6_1P7X3P02-0P95_SFE-L"
 			(at 250.19 337.82 0)
 			(effects
 				(font
@@ -16939,72 +16917,6 @@
 			(project "MechanicalKeyboard"
 				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
 					(reference "D64")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 140.97 508 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "589ad987-5877-4b32-b2a4-2a4a281ecee5")
-		(property "Reference" "#PWR024"
-			(at 140.97 501.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 140.97 502.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 508 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 508 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 508 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d33327d-e23f-4b0a-8faa-ae2f92248a19")
-		)
-		(instances
-			(project "MechanicalKeyboard"
-				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -19665,7 +19577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT23-6_1P7X3P02-0P95_SFE"
+		(property "Footprint" "DW01A:SOT23-6_1P7X3P02-0P95_SFE"
 			(at 260.35 497.84 0)
 			(effects
 				(font
