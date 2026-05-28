@@ -1,0 +1,1 @@
+this project of wireless keyboard is designed using nrf52840 qfn48
