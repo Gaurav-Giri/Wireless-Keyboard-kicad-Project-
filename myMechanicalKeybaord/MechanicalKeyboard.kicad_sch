@@ -6236,6 +6236,12 @@
 		(uuid "c422a57c-5d01-4304-a3b8-cbeee4b036f1")
 	)
 	(junction
+		(at 140.97 490.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c81cd4fa-b6b6-4836-a114-dc4bfe5a69e0")
+	)
+	(junction
 		(at 311.15 345.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7229,7 +7235,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 490.22) (xy 142.24 490.22)
+			(xy 139.7 490.22) (xy 140.97 490.22)
 		)
 		(stroke
 			(width 0)
@@ -9116,6 +9122,16 @@
 			(type default)
 		)
 		(uuid "e155f73a-213d-4e0c-a981-780ad1bb77de")
+	)
+	(wire
+		(pts
+			(xy 140.97 490.22) (xy 142.24 490.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1672668-f284-4341-b1cd-de0a6e993dce")
 	)
 	(wire
 		(pts
@@ -16923,6 +16939,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 140.97 490.22 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58267fa3-211c-4eca-ae58-d46b9b0cc267")
+		(property "Reference" "TP6"
+			(at 142.24 492.252 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 140.97 492.252 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 135.89 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 140.97 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "396f2be3-6e3d-4d02-ba5c-26311dae8e35")
+		)
+		(instances
+			(project "MechanicalKeyboard"
+				(path "/dd8f9092-0812-4ba5-9c06-768857751bc0"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 50.8 453.39 90)
 		(unit 1)
@@ -19812,7 +19895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 368.3 198.12 0)
 			(effects
 				(font
@@ -21883,7 +21966,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 368.3 220.98 0)
 			(effects
 				(font
@@ -25194,7 +25277,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 210.82 341.63 0)
 			(effects
 				(font
@@ -26511,7 +26594,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 207.01 341.63 0)
 			(effects
 				(font
